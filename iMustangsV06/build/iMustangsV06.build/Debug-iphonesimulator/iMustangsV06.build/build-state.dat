@@ -1,0 +1,1261 @@
+TiMustangsV06
+v7
+r0
+t343296419.549807
+cCheck dependencies
+cProcessInfoPlistFile /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/Info.plist iMustangsV06-Info.plist
+cCompileXIB /Users/tommy.seals/iMustangsV06/iMustangsV06/MainWindow.xib
+cCompileXIB /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/RootViewController.xib
+cCompileXIB /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/MapView.xib
+cCompileXIB /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventsView.xib
+cCpResource build/Debug-iphonesimulator/iMustangsV06.app/us-states.png us-states.png
+cCompileXIB /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventInfoView.xib
+cCompileXIB /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/PDFMapView.xib
+cCpResource build/Debug-iphonesimulator/iMustangsV06.app/PdfMap.pdf PdfMap.pdf
+cProcessPCH /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-hiismlfcxrshnxhjuwbxxhiuekkh/iMustangsV06_Prefix.pch.gch iMustangsV06_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/main.o /Users/tommy.seals/iMustangsV06/iMustangsV06/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06AppDelegate.o /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/iMustangsV06AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/RootViewController.o /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/MapView.o /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/MapView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventsView.o /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventsView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventInfoView.o /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventInfoView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/PDFMapView.o /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/PDFMapView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06 normal i386
+cGenerateDSYMFile /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app.dSYM /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06
+cTouch /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Campus-Map-C.pdf
+c000000004E9952000000000000150344
+t1318670848
+s1377092
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventInfoView.h
+c000000004E99DCDA0000000000000108
+t1318706394
+s264
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventInfoView.m
+c000000004E99DCC700000000000005EE
+t1318706375
+s1518
+i"EventInfoView.h"
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventInfoView.xib
+c000000004E99E1DB0000000000005373
+t1318707675
+s21363
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventsView.h
+c000000004E99DD8200000000000001A1
+t1318706562
+s417
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventsView.m
+c000000004E99DE6600000000000007AC
+t1318706790
+s1964
+i"EventsView.h"
+i"EventInfoView.h"
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventsView.xib
+c000000004E99E0650000000000005E57
+t1318707301
+s24151
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/MapView.h
+c000000004EB2146700000000000000FD
+t1320293479
+s253
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/MapView.m
+c000000004E99474B00000000000005DA
+t1318668107
+s1498
+i"MapView.h"
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/MapView.xib
+c000000004EB217920000000000004FFE
+t1320294290
+s20478
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/PDFMapView.h
+c000000004EB2325B000000000000018D
+t1320301147
+s397
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/PDFMapView.m
+c000000004EB2326200000000000006F8
+t1320301154
+s1784
+i"PDFMapView.h"
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/PDFMapView.xib
+c000000004EB232DA00000000000053E3
+t1320301274
+s21475
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/RootViewController.h
+c000000004EB21F270000000000000285
+t1320296231
+s645
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/RootViewController.m
+c000000004EB231530000000000000A64
+t1320300883
+s2660
+i"RootViewController.h"
+i"MapView.h"
+i"EventsView.h"
+i"PDFMapView.h"
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/RootViewController.xib
+c000000004E990FD30000000000001871
+t1318653907
+s6257
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/iMustangsV06AppDelegate.h
+c000000004E9910C800000000000001EB
+t1318654152
+s491
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/iMustangsV06AppDelegate.m
+c000000004E9911520000000000000A6D
+t1318654290
+s2669
+i"iMustangsV06AppDelegate.h"
+i"RootViewController.h"
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/MainWindow.xib
+c000000004EB220AA0000000000008738
+t1320296618
+s34616
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/PdfMap.pdf
+c000000004E9952000000000000150344
+t1318670848
+s1377092
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app
+t1320301283
+s510
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app.dSYM
+t1320301157
+s102
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/Campus-Map-C.pdf
+t1320293547
+s1377092
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/EventInfoView.nib
+t1318707689
+s2996
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/EventsView.nib
+t1318707306
+s3851
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/Info.plist
+t1318654292
+s611
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/MainWindow.nib
+t1320296631
+s5163
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/MapView.nib
+t1320294299
+s2275
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/PDFMapView.nib
+t1320301283
+s2204
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/PdfMap.pdf
+t1320300981
+s1377092
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/PkgInfo
+t1318654292
+s8
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/RootViewController.nib
+t1318654292
+s1231
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06
+t1320301157
+s28012
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/us-states.png
+t1318671354
+s633368
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventInfoView.o
+t1319818949
+s38620
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventsView.o
+t1319818949
+s42188
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/MapView.o
+t1320293548
+s38476
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/PDFMapView.o
+t1320301157
+s43476
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/RootViewController.o
+t1320301157
+s47400
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06.LinkFileList
+c000000004EB21CCB0000000000000430
+t1320295627
+s1072
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06AppDelegate.o
+t1320296419
+s51800
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/main.o
+t1319818948
+s6336
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/iMustangsV06_Prefix.pch
+c000000004E990C6300000000000000C1
+t1318653027
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/main.m
+c000000004E990C63000000000000016F
+t1318653027
+s367
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangs/iMustangsV06/us-states.png
+c000000004E99533E000000000009AA18
+t1318671166
+s633368
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/EventInfoView.h
+c000000004E99DCDA0000000000000108
+t1318706394
+s264
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/EventInfoView.m
+c000000004E99DCC700000000000005EE
+t1318706375
+s1518
+i"EventInfoView.h"
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/EventInfoView.xib
+c000000004E99E1DB0000000000005373
+t1318707675
+s21363
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/Events.h
+c000000004E99330B00000000000000D6
+t1318662923
+s214
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/Events.m
+c000000004E99330B000000000000058E
+t1318662923
+s1422
+i"Events.h"
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/Events.xib
+c000000004E9934560000000000004217
+t1318663254
+s16919
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/EventsView.h
+c000000004E99DD8200000000000001A1
+t1318706562
+s417
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/EventsView.m
+c000000004E99DE6600000000000007AC
+t1318706790
+s1964
+i"EventsView.h"
+i"EventInfoView.h"
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/EventsView.xib
+c000000004E99E0650000000000005E57
+t1318707301
+s24151
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/HomeView.h
+c000000004E9911B500000000000000DA
+t1318654389
+s218
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/MapView.h
+c000000004E99474B00000000000000FC
+t1318668107
+s252
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/MapView.m
+c000000004E99474B00000000000005DA
+t1318668107
+s1498
+i"MapView.h"
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/MapView.xib
+c000000004E9953EA0000000000004FFD
+t1318671338
+s20477
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/RootViewController.h
+c000000004E994DA900000000000001F7
+t1318669737
+s503
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/RootViewController.m
+c000000004E994E3500000000000008C6
+t1318669877
+s2246
+i"RootViewController.h"
+i"MapView.h"
+i"EventsView.h"
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/RootViewController.xib
+c000000004E990FD30000000000001871
+t1318653907
+s6257
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/iMustangsV06AppDelegate.h
+c000000004E9910C800000000000001EB
+t1318654152
+s491
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangsV06/Classes/iMustangsV06AppDelegate.m
+c000000004E9911520000000000000A6D
+t1318654290
+s2669
+i"iMustangsV06AppDelegate.h"
+i"RootViewController.h"
+
+N/Users/tommy.seals/Documents/iMustangsV06/MainWindow.xib
+c000000004E9950ED00000000000084B0
+t1318670573
+s33968
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app
+t1318707689
+s408
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app.dSYM
+t1318706793
+s102
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/EventInfoView.nib
+t1318707689
+s2996
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/Events.nib
+t1318663328
+s2006
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/EventsView.nib
+t1318707306
+s3851
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/Info.plist
+t1318654292
+s611
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/MainWindow.nib
+t1318671354
+s5074
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/MapView.nib
+t1318671354
+s2275
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/PkgInfo
+t1318654292
+s8
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/RootViewController.nib
+t1318654292
+s1231
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06
+t1318706793
+s25572
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/us-states.png
+t1318671354
+s633368
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventInfoView.o
+t1318706403
+s38600
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/Events.o
+t1318663178
+s37836
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventsView.o
+t1318706793
+s42168
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/MapView.o
+t1318668107
+s38456
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/RootViewController.o
+t1318706664
+s44456
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06.LinkFileList
+c000000004E99DCE2000000000000035D
+t1318706402
+s861
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06AppDelegate.o
+t1318669883
+s51736
+
+N/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/main.o
+t1318654293
+s6316
+
+N/Users/tommy.seals/Documents/iMustangsV06/iMustangsV06_Prefix.pch
+c000000004E990C6300000000000000C1
+t1318653027
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangsV06/main.m
+c000000004E990C63000000000000016F
+t1318653027
+s367
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/Documents/iMustangsV06/us-states.png
+c000000004E99533E000000000009AA18
+t1318671166
+s633368
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventInfoView.h
+c000000004E99DCDA0000000000000108
+t1318706394
+s264
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventInfoView.m
+c000000004E99DCC700000000000005EE
+t1318706375
+s1518
+i"EventInfoView.h"
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventInfoView.xib
+c000000004E99E1DB0000000000005373
+t1318707675
+s21363
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventsView.h
+c000000004E99DD8200000000000001A1
+t1318706562
+s417
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventsView.m
+c000000004E99DE6600000000000007AC
+t1318706790
+s1964
+i"EventsView.h"
+i"EventInfoView.h"
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventsView.xib
+c000000004E99E0650000000000005E57
+t1318707301
+s24151
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/MapView.h
+c000000004EB2146700000000000000FD
+t1320293479
+s253
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/MapView.m
+c000000004E99474B00000000000005DA
+t1318668107
+s1498
+i"MapView.h"
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/MapView.xib
+c000000004EB217920000000000004FFE
+t1320294290
+s20478
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/PDFMapView.h
+c000000004EB2325B000000000000018D
+t1320301147
+s397
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/PDFMapView.m
+c000000004EB2326200000000000006F8
+t1320301154
+s1784
+i"PDFMapView.h"
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/PDFMapView.xib
+c000000004EB232DA00000000000053E3
+t1320301274
+s21475
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/RootViewController.h
+c000000004EB21F270000000000000285
+t1320296231
+s645
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/RootViewController.m
+c000000004EB231530000000000000A64
+t1320300883
+s2660
+i"RootViewController.h"
+i"MapView.h"
+i"EventsView.h"
+i"PDFMapView.h"
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/RootViewController.xib
+c000000004E990FD30000000000001871
+t1318653907
+s6257
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/iMustangsV06AppDelegate.h
+c000000004E9910C800000000000001EB
+t1318654152
+s491
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/iMustangsV06AppDelegate.m
+c000000004E9911520000000000000A6D
+t1318654290
+s2669
+i"iMustangsV06AppDelegate.h"
+i"RootViewController.h"
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/MainWindow.xib
+c000000004EB220AA0000000000008738
+t1320296618
+s34616
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/PdfMap.pdf
+c000000004E9952000000000000150344
+t1318670848
+s1377092
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app
+t1321603619
+s510
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app.dSYM
+t1321603619
+s102
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/EventInfoView.nib
+t1318707689
+s2996
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/EventsView.nib
+t1318707306
+s3851
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/Info.plist
+t1318654292
+s611
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/MainWindow.nib
+t1320296631
+s5163
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/MapView.nib
+t1320294299
+s2275
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/PDFMapView.nib
+t1320301283
+s2204
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/PdfMap.pdf
+t1320300981
+s1377092
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/PkgInfo
+t1318654292
+s8
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/RootViewController.nib
+t1318654292
+s1231
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06
+t1321603619
+s27912
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/us-states.png
+t1318671354
+s633368
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventInfoView.o
+t1321603618
+s38604
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventsView.o
+t1321603618
+s42172
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/MapView.o
+t1321603618
+s38460
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/PDFMapView.o
+t1321603619
+s43464
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/RootViewController.o
+t1321603618
+s47384
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06.LinkFileList
+c000000004EC6122000000000000003FF
+t1321603616
+s1023
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06AppDelegate.o
+t1321603618
+s51788
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/main.o
+t1321603618
+s6324
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/iMustangsV06_Prefix.pch
+c000000004E990C6300000000000000C1
+t1318653027
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/main.m
+c000000004E990C63000000000000016F
+t1318653027
+s367
+i<UIKit/UIKit.h>
+
+N/Users/tommy.seals/iMustangsV06/iMustangsV06/us-states.png
+c000000004E99533E000000000009AA18
+t1318671166
+s633368
+
+N/var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-fldpgiiiiqibvaevlyrpxgshsgut/iMustangsV06_Prefix.pch.gch
+t1319818948
+s15814064
+
+N/var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-frvivifmkrkmfpczuicomquutmsz/iMustangsV06_Prefix.pch.gch
+t1318654293
+s15814064
+
+N/var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-hiismlfcxrshnxhjuwbxxhiuekkh/iMustangsV06_Prefix.pch.gch
+t1321603618
+s15814064
+
+NiMustangsV06-Info.plist
+c000000004E990C63000000000000038D
+t1318653027
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies343296416#343296416#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventInfoView.o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventInfoView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341511749.030079
+e341511749.077231
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventInfoView.o
+x/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventInfoView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventInfoView.m341511749#341511749#0(0"0(0#0#75"/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventInfoView.m8609136096#2189"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-fldpgiiiiqibvaevlyrpxgshsgut/iMustangsV06_Prefix.pch -c /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventInfoView.m -o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventInfoView.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventInfoView.o /Users/tommy.seals/Documents/iMustangsV06/Classes/EventInfoView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340399203.366894
+e340399203.409523
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventInfoView.o
+x/Users/tommy.seals/Documents/iMustangsV06/Classes/EventInfoView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/tommy.seals/Documents/iMustangsV06/Classes/EventInfoView.m340399203#340399203#0(0"0(0#0#65"/Users/tommy.seals/Documents/iMustangsV06/Classes/EventInfoView.m8628438720#2079"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-frvivifmkrkmfpczuicomquutmsz/iMustangsV06_Prefix.pch -c /Users/tommy.seals/Documents/iMustangsV06/Classes/EventInfoView.m -o /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventInfoView.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventInfoView.o /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventInfoView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343296418.936250
+e343296419.001091
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventInfoView.o
+x/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventInfoView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventInfoView.m343296418#343296419#0(0"0(0#0#68"/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventInfoView.m8603000672#2112"    cd /Users/tommy.seals/iMustangsV06/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-hiismlfcxrshnxhjuwbxxhiuekkh/iMustangsV06_Prefix.pch -c /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventInfoView.m -o /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventInfoView.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/Events.o /Users/tommy.seals/Documents/iMustangsV06/Classes/Events.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340355978.702848
+e340355978.748758
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/Events.o
+x/Users/tommy.seals/Documents/iMustangsV06/Classes/Events.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/tommy.seals/Documents/iMustangsV06/Classes/Events.m340355978#340355978#0(0"0(0#0#58"/Users/tommy.seals/Documents/iMustangsV06/Classes/Events.m8630978400#2065"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-frvivifmkrkmfpczuicomquutmsz/iMustangsV06_Prefix.pch -c /Users/tommy.seals/Documents/iMustangsV06/Classes/Events.m -o /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/Events.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventsView.o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventsView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341511748.989904
+e341511749.082332
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventsView.o
+x/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventsView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventsView.m341511748#341511749#0(0"0(0#0#72"/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventsView.m8609721152#2183"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-fldpgiiiiqibvaevlyrpxgshsgut/iMustangsV06_Prefix.pch -c /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventsView.m -o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventsView.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventsView.o /Users/tommy.seals/Documents/iMustangsV06/Classes/EventsView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340399593.220246
+e340399593.313087
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventsView.o
+x/Users/tommy.seals/Documents/iMustangsV06/Classes/EventsView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/tommy.seals/Documents/iMustangsV06/Classes/EventsView.m340399593#340399593#0(0"0(0#0#62"/Users/tommy.seals/Documents/iMustangsV06/Classes/EventsView.m8613927936#2073"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-frvivifmkrkmfpczuicomquutmsz/iMustangsV06_Prefix.pch -c /Users/tommy.seals/Documents/iMustangsV06/Classes/EventsView.m -o /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventsView.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventsView.o /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventsView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343296418.927111
+e343296419.000808
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventsView.o
+x/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventsView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventsView.m343296418#343296419#0(0"0(0#0#65"/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventsView.m8603174816#2106"    cd /Users/tommy.seals/iMustangsV06/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-hiismlfcxrshnxhjuwbxxhiuekkh/iMustangsV06_Prefix.pch -c /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventsView.m -o /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/EventsView.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/MapView.o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/MapView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341986347.680854
+e341986348.896443
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/MapView.o
+x/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/MapView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/MapView.m341986347#341986348#0(0"0(0#0#69"/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/MapView.m8604106528#2177"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-fldpgiiiiqibvaevlyrpxgshsgut/iMustangsV06_Prefix.pch -c /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/MapView.m -o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/MapView.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/MapView.o /Users/tommy.seals/Documents/iMustangsV06/Classes/MapView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340360907.554311
+e340360907.625013
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/MapView.o
+x/Users/tommy.seals/Documents/iMustangsV06/Classes/MapView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/tommy.seals/Documents/iMustangsV06/Classes/MapView.m340360907#340360907#0(0"0(0#0#59"/Users/tommy.seals/Documents/iMustangsV06/Classes/MapView.m8630406368#2067"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-frvivifmkrkmfpczuicomquutmsz/iMustangsV06_Prefix.pch -c /Users/tommy.seals/Documents/iMustangsV06/Classes/MapView.m -o /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/MapView.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/MapView.o /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/MapView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343296418.747966
+e343296418.936139
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/MapView.o
+x/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/MapView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/MapView.m343296418#343296418#0(0"0(0#0#62"/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/MapView.m8603543264#2100"    cd /Users/tommy.seals/iMustangsV06/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-hiismlfcxrshnxhjuwbxxhiuekkh/iMustangsV06_Prefix.pch -c /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/MapView.m -o /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/MapView.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/PDFMapView.o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/PDFMapView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341993957.199011
+e341993957.256872
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/PDFMapView.o
+x/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/PDFMapView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/PDFMapView.m341993957#341993957#0(0"0(0#0#72"/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/PDFMapView.m8614442848#2183"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-fldpgiiiiqibvaevlyrpxgshsgut/iMustangsV06_Prefix.pch -c /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/PDFMapView.m -o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/PDFMapView.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/PDFMapView.o /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/PDFMapView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343296418.961962
+e343296419.021968
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/PDFMapView.o
+x/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/PDFMapView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/PDFMapView.m343296418#343296419#0(0"0(0#0#65"/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/PDFMapView.m8602700992#2106"    cd /Users/tommy.seals/iMustangsV06/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-hiismlfcxrshnxhjuwbxxhiuekkh/iMustangsV06_Prefix.pch -c /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/PDFMapView.m -o /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/PDFMapView.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/RootViewController.o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341993957.197830
+e341993957.259798
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/RootViewController.o
+x/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/RootViewController.m341993957#341993957#0(0"0(0#0#80"/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/RootViewController.m8614784448#2199"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-fldpgiiiiqibvaevlyrpxgshsgut/iMustangsV06_Prefix.pch -c /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/RootViewController.m -o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/RootViewController.o /Users/tommy.seals/Documents/iMustangsV06/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340399464.602397
+e340399464.667067
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/RootViewController.o
+x/Users/tommy.seals/Documents/iMustangsV06/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/tommy.seals/Documents/iMustangsV06/Classes/RootViewController.m340399464#340399464#0(0"0(0#0#70"/Users/tommy.seals/Documents/iMustangsV06/Classes/RootViewController.m8629100480#2089"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-frvivifmkrkmfpczuicomquutmsz/iMustangsV06_Prefix.pch -c /Users/tommy.seals/Documents/iMustangsV06/Classes/RootViewController.m -o /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/RootViewController.o /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343296418.746920
+e343296418.963296
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/RootViewController.o
+x/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/RootViewController.m343296418#343296418#0(0"0(0#0#73"/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/RootViewController.m8603675712#2122"    cd /Users/tommy.seals/iMustangsV06/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-hiismlfcxrshnxhjuwbxxhiuekkh/iMustangsV06_Prefix.pch -c /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/RootViewController.m -o /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06AppDelegate.o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/iMustangsV06AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341989219.813135
+e341989219.869899
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06AppDelegate.o
+x/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/iMustangsV06AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/iMustangsV06AppDelegate.m341989219#341989219#0(0"0(0#0#85"/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/iMustangsV06AppDelegate.m8606476032#2209"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-fldpgiiiiqibvaevlyrpxgshsgut/iMustangsV06_Prefix.pch -c /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/iMustangsV06AppDelegate.m -o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06AppDelegate.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06AppDelegate.o /Users/tommy.seals/Documents/iMustangsV06/Classes/iMustangsV06AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340362683.807127
+e340362683.866481
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06AppDelegate.o
+x/Users/tommy.seals/Documents/iMustangsV06/Classes/iMustangsV06AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/tommy.seals/Documents/iMustangsV06/Classes/iMustangsV06AppDelegate.m340362683#340362683#0(0"0(0#0#75"/Users/tommy.seals/Documents/iMustangsV06/Classes/iMustangsV06AppDelegate.m8629852128#2099"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-frvivifmkrkmfpczuicomquutmsz/iMustangsV06_Prefix.pch -c /Users/tommy.seals/Documents/iMustangsV06/Classes/iMustangsV06AppDelegate.m -o /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06AppDelegate.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06AppDelegate.o /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/iMustangsV06AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343296418.745942
+e343296418.961834
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06AppDelegate.o
+x/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/iMustangsV06AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/iMustangsV06AppDelegate.m343296418#343296418#0(0"0(0#0#78"/Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/iMustangsV06AppDelegate.m8603897216#2132"    cd /Users/tommy.seals/iMustangsV06/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-hiismlfcxrshnxhjuwbxxhiuekkh/iMustangsV06_Prefix.pch -c /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/iMustangsV06AppDelegate.m -o /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06AppDelegate.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/main.o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341511748.885527
+e341511748.989787
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/main.o
+x/Users/tommy.seals/Documents/iMustangs/iMustangsV06/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/tommy.seals/Documents/iMustangs/iMustangsV06/main.m341511748#341511748#0(0"0(0#0#58"/Users/tommy.seals/Documents/iMustangs/iMustangsV06/main.m8609951840#2163"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-fldpgiiiiqibvaevlyrpxgshsgut/iMustangsV06_Prefix.pch -c /Users/tommy.seals/Documents/iMustangs/iMustangsV06/main.m -o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/main.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/main.o /Users/tommy.seals/Documents/iMustangsV06/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340347093.663432
+e340347093.718025
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/main.o
+x/Users/tommy.seals/Documents/iMustangsV06/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/tommy.seals/Documents/iMustangsV06/main.m340347093#340347093#0(0"0(0#0#48"/Users/tommy.seals/Documents/iMustangsV06/main.m8602697024#2053"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-frvivifmkrkmfpczuicomquutmsz/iMustangsV06_Prefix.pch -c /Users/tommy.seals/Documents/iMustangsV06/main.m -o /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/main.o0#
+
+CCompileC build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/main.o /Users/tommy.seals/iMustangsV06/iMustangsV06/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343296418.744918
+e343296418.926996
+r1
+xCompileC
+xbuild/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/main.o
+x/Users/tommy.seals/iMustangsV06/iMustangsV06/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/tommy.seals/iMustangsV06/iMustangsV06/main.m343296418#343296418#0(0"0(0#0#51"/Users/tommy.seals/iMustangsV06/iMustangsV06/main.m8604063616#2086"    cd /Users/tommy.seals/iMustangsV06/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -include /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-hiismlfcxrshnxhjuwbxxhiuekkh/iMustangsV06_Prefix.pch -c /Users/tommy.seals/iMustangsV06/iMustangsV06/main.m -o /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventInfoView.xib
+r0
+
+CCompileXIB /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/EventsView.xib
+r0
+
+CCompileXIB /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/MapView.xib
+s341987099.107774
+e341987099.439235
+r1
+xCompileXIB
+x/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/MapView.xib
+lSLF07#2@30"CompileXIB Classes/MapView.xib341987099#341987099#0(0"0(0#0#71"/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/MapView.xib8604568288#616"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/MapView.nib /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/MapView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/PDFMapView.xib
+s341994083.348051
+e341994083.692306
+r1
+xCompileXIB
+x/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/PDFMapView.xib
+lSLF07#2@33"CompileXIB Classes/PDFMapView.xib341994083#341994083#0(0"0(0#0#74"/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/PDFMapView.xib8616005152#622"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/PDFMapView.nib /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/PDFMapView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Classes/RootViewController.xib
+r0
+
+CCompileXIB /Users/tommy.seals/Documents/iMustangs/iMustangsV06/MainWindow.xib
+s341989431.385686
+e341989431.776505
+r1
+xCompileXIB
+x/Users/tommy.seals/Documents/iMustangs/iMustangsV06/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib341989431#341989431#0(0"0(0#0#66"/Users/tommy.seals/Documents/iMustangs/iMustangsV06/MainWindow.xib8598426016#614"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/MainWindow.nib /Users/tommy.seals/Documents/iMustangs/iMustangsV06/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/tommy.seals/Documents/iMustangsV06/Classes/EventInfoView.xib
+s340400489.117984
+e340400489.468109
+r1
+xCompileXIB
+x/Users/tommy.seals/Documents/iMustangsV06/Classes/EventInfoView.xib
+lSLF07#2@36"CompileXIB Classes/EventInfoView.xib340400489#340400489#0(0"0(0#0#67"/Users/tommy.seals/Documents/iMustangsV06/Classes/EventInfoView.xib8622874624#598"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/EventInfoView.nib /Users/tommy.seals/Documents/iMustangsV06/Classes/EventInfoView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/tommy.seals/Documents/iMustangsV06/Classes/Events.xib
+s340356128.566363
+e340356128.975413
+r1
+xCompileXIB
+x/Users/tommy.seals/Documents/iMustangsV06/Classes/Events.xib
+lSLF07#2@29"CompileXIB Classes/Events.xib340356128#340356128#0(0"0(0#0#60"/Users/tommy.seals/Documents/iMustangsV06/Classes/Events.xib8626485888#584"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/Events.nib /Users/tommy.seals/Documents/iMustangsV06/Classes/Events.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/tommy.seals/Documents/iMustangsV06/Classes/EventsView.xib
+s340400106.394672
+e340400106.793083
+r1
+xCompileXIB
+x/Users/tommy.seals/Documents/iMustangsV06/Classes/EventsView.xib
+lSLF07#2@33"CompileXIB Classes/EventsView.xib340400106#340400106#0(0"0(0#0#64"/Users/tommy.seals/Documents/iMustangsV06/Classes/EventsView.xib8622617984#592"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/EventsView.nib /Users/tommy.seals/Documents/iMustangsV06/Classes/EventsView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/tommy.seals/Documents/iMustangsV06/Classes/MapView.xib
+s340364154.178642
+e340364154.584987
+r1
+xCompileXIB
+x/Users/tommy.seals/Documents/iMustangsV06/Classes/MapView.xib
+lSLF07#2@30"CompileXIB Classes/MapView.xib340364154#340364154#0(0"0(0#0#61"/Users/tommy.seals/Documents/iMustangsV06/Classes/MapView.xib8600840672#586"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/MapView.nib /Users/tommy.seals/Documents/iMustangsV06/Classes/MapView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/tommy.seals/Documents/iMustangsV06/Classes/RootViewController.xib
+s340347092.577993
+e340347092.930201
+r1
+xCompileXIB
+x/Users/tommy.seals/Documents/iMustangsV06/Classes/RootViewController.xib
+lSLF07#2@41"CompileXIB Classes/RootViewController.xib340347092#340347092#0(0"0(0#0#72"/Users/tommy.seals/Documents/iMustangsV06/Classes/RootViewController.xib8622346368#608"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/RootViewController.nib /Users/tommy.seals/Documents/iMustangsV06/Classes/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/tommy.seals/Documents/iMustangsV06/MainWindow.xib
+s340364154.177919
+e340364154.609732
+r1
+xCompileXIB
+x/Users/tommy.seals/Documents/iMustangsV06/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib340364154#340364154#0(0"0(0#0#56"/Users/tommy.seals/Documents/iMustangsV06/MainWindow.xib32370120545140836#584"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/MainWindow.nib /Users/tommy.seals/Documents/iMustangsV06/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventInfoView.xib
+r0
+
+CCompileXIB /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/EventsView.xib
+r0
+
+CCompileXIB /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/MapView.xib
+r0
+
+CCompileXIB /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/PDFMapView.xib
+r0
+
+CCompileXIB /Users/tommy.seals/iMustangsV06/iMustangsV06/Classes/RootViewController.xib
+r0
+
+CCompileXIB /Users/tommy.seals/iMustangsV06/iMustangsV06/MainWindow.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/iMustangsV06.app/Campus-Map-C.pdf Campus-Map-C.pdf
+s341986347.305821
+e341986347.338704
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iMustangsV06.app/Campus-Map-C.pdf
+xCampus-Map-C.pdf
+lSLF07#2@21"Copy Campus-Map-C.pdf341986347#341986347#0(0"0(0#0#68"/Users/tommy.seals/Documents/iMustangs/iMustangsV06/Campus-Map-C.pdf8603340576#518"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tommy.seals/Documents/iMustangs/iMustangsV06/Campus-Map-C.pdf /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app0#
+
+CCpResource build/Debug-iphonesimulator/iMustangsV06.app/PdfMap.pdf PdfMap.pdf
+s341993781.364948
+e341993781.371030
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iMustangsV06.app/PdfMap.pdf
+xPdfMap.pdf
+lSLF07#2@15"Copy PdfMap.pdf341993781#341993781#0(0"0(0#0#62"/Users/tommy.seals/Documents/iMustangs/iMustangsV06/PdfMap.pdf8609630592#512"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tommy.seals/Documents/iMustangs/iMustangsV06/PdfMap.pdf /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app0#
+
+CCpResource build/Debug-iphonesimulator/iMustangsV06.app/us-states.png us-states.png
+s340364154.179355
+e340364154.230764
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iMustangsV06.app/us-states.png
+xus-states.png
+lSLF07#2@18"Copy us-states.png340364154#340364154#0(0"0(0#0#55"/Users/tommy.seals/Documents/iMustangsV06/us-states.png8597942912#485"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tommy.seals/Documents/iMustangsV06/us-states.png /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app0#
+
+CGenerateDSYMFile /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app.dSYM /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06
+s341993957.279054
+e341993957.295651
+r1
+xGenerateDSYMFile
+x/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app.dSYM
+x/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/iMustangsV06.app.dSYM build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06341993957#341993957#0(0"0(0#0#109"/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV068615949824#437"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06 -o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app.dSYM0#
+
+CGenerateDSYMFile /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app.dSYM /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06
+s340399593.341565
+e340399593.359134
+r1
+xGenerateDSYMFile
+x/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app.dSYM
+x/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/iMustangsV06.app.dSYM build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06340399593#340399593#0(0"0(0#0#99"/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV068622236128#407"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06 -o /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app.dSYM0#
+
+CGenerateDSYMFile /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app.dSYM /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06
+s343296419.462308
+e343296419.547146
+r1
+xGenerateDSYMFile
+x/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app.dSYM
+x/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/iMustangsV06.app.dSYM build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06343296419#343296419#0(0"0(0#0#102"/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV068603858688#416"    cd /Users/tommy.seals/iMustangsV06/iMustangsV06    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06 -o /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app.dSYM0#
+
+CLd /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06 normal i386
+s341993957.259870
+e341993957.278914
+r1
+xLd
+x/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06
+xnormal
+xi386
+lSLF07#2@114"Link /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06341993957#341993957#0(0"0(0#0#0"8617324672#990"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator -F/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator -filelist /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV060#
+
+CLd /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06 normal i386
+s340399593.313160
+e340399593.341484
+r1
+xLd
+x/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06
+xnormal
+xi386
+lSLF07#2@104"Link /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06340399593#340399593#0(0"0(0#0#0"8628554016#940"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator -F/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator -filelist /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV060#
+
+CLd /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06 normal i386
+s343296419.022076
+e343296419.462208
+r1
+xLd
+x/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06
+xnormal
+xi386
+lSLF07#2@107"Link /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV06343296419#343296419#0(0"0(0#0#0"8603023968#955"    cd /Users/tommy.seals/iMustangsV06/iMustangsV06    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator -F/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator -filelist /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/Objects-normal/i386/iMustangsV06.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/iMustangsV060#
+
+CProcessInfoPlistFile /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/Info.plist iMustangsV06-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/Info.plist iMustangsV06-Info.plist
+s340347092.572894
+e340347092.576849
+r1
+xProcessInfoPlistFile
+x/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/Info.plist
+xiMustangsV06-Info.plist
+lSLF07#2@31"Process iMustangsV06-Info.plist340347092#340347092#0(0"0(0#0#65"/Users/tommy.seals/Documents/iMustangsV06/iMustangsV06-Info.plist8603955872#503"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iMustangsV06-Info.plist -genpkginfo /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app/Info.plist iMustangsV06-Info.plist
+r0
+
+CProcessPCH /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-fldpgiiiiqibvaevlyrpxgshsgut/iMustangsV06_Prefix.pch.gch iMustangsV06_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s341511747.869183
+e341511748.885405
+r1
+xProcessPCH
+x/var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-fldpgiiiiqibvaevlyrpxgshsgut/iMustangsV06_Prefix.pch.gch
+xiMustangsV06_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile iMustangsV06_Prefix.pch341511747#341511748#0(0"0(0#0#75"/Users/tommy.seals/Documents/iMustangs/iMustangsV06/iMustangsV06_Prefix.pch3276484617421606912#2037"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -c /Users/tommy.seals/Documents/iMustangs/iMustangsV06/iMustangsV06_Prefix.pch -o /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-fldpgiiiiqibvaevlyrpxgshsgut/iMustangsV06_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-frvivifmkrkmfpczuicomquutmsz/iMustangsV06_Prefix.pch.gch iMustangsV06_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s340347092.930283
+e340347093.663309
+r1
+xProcessPCH
+x/var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-frvivifmkrkmfpczuicomquutmsz/iMustangsV06_Prefix.pch.gch
+xiMustangsV06_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile iMustangsV06_Prefix.pch340347092#340347093#0(0"0(0#0#65"/Users/tommy.seals/Documents/iMustangsV06/iMustangsV06_Prefix.pch8618659392#1937"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/Documents/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -c /Users/tommy.seals/Documents/iMustangsV06/iMustangsV06_Prefix.pch -o /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-frvivifmkrkmfpczuicomquutmsz/iMustangsV06_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-hiismlfcxrshnxhjuwbxxhiuekkh/iMustangsV06_Prefix.pch.gch iMustangsV06_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s343296416.242102
+e343296418.744704
+r1
+xProcessPCH
+x/var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-hiismlfcxrshnxhjuwbxxhiuekkh/iMustangsV06_Prefix.pch.gch
+xiMustangsV06_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile iMustangsV06_Prefix.pch343296416#343296418#0(0"0(0#0#68"/Users/tommy.seals/iMustangsV06/iMustangsV06/iMustangsV06_Prefix.pch3276484617421606912#1967"    cd /Users/tommy.seals/iMustangsV06/iMustangsV06    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-generated-files.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-own-target-headers.hmap -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-all-target-headers.hmap -iquote /Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/iMustangsV06-project-headers.hmap -F/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/include -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources/i386 -I/Users/tommy.seals/iMustangsV06/iMustangsV06/build/iMustangsV06.build/Debug-iphonesimulator/iMustangsV06.build/DerivedSources -c /Users/tommy.seals/iMustangsV06/iMustangsV06/iMustangsV06_Prefix.pch -o /var/folders/Yq/Yqhp6I+ZEa4M3cB1QgERB-BfRG2/-Caches-/com.apple.Xcode.325809441/SharedPrecompiledHeaders/iMustangsV06_Prefix-hiismlfcxrshnxhjuwbxxhiuekkh/iMustangsV06_Prefix.pch.gch0#
+
+CTouch /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app
+s341994083.693109
+e341994083.694887
+r1
+xTouch
+x/Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app
+lSLF07#2@102"Touch /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app341994083#341994083#0(0"0(0#0#0"8613708864#309"    cd /Users/tommy.seals/Documents/iMustangs/iMustangsV06    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tommy.seals/Documents/iMustangs/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app0#
+
+CTouch /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app
+s340400489.468832
+e340400489.470969
+r1
+xTouch
+x/Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app
+lSLF07#2@92"Touch /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app340400489#340400489#0(0"0(0#0#0"8614036928#289"    cd /Users/tommy.seals/Documents/iMustangsV06    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tommy.seals/Documents/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app0#
+
+CTouch /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app
+s343296419.547251
+e343296419.549743
+r1
+xTouch
+x/Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app
+lSLF07#2@95"Touch /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app343296419#343296419#0(0"0(0#0#0"8603691392#295"    cd /Users/tommy.seals/iMustangsV06/iMustangsV06    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tommy.seals/iMustangsV06/iMustangsV06/build/Debug-iphonesimulator/iMustangsV06.app0#
+
